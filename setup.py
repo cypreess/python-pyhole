@@ -10,7 +10,7 @@ setup(
     license="LGPL",
     keywords="REST api connect connector client pyhole",
     packages=['pyhole', 'test'],
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     url="http://packages.python.org/pyhole",
     classifiers=[
         "Topic :: Utilities",

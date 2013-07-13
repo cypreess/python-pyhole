@@ -18,22 +18,16 @@ Jakub Paczkowski <jakub@paczkowski.eu>
 Source code and contribution
 -----------------------------
 
-Source code is under `merculiar (hg)`_ version control on bitbucket_:
+Source code is available on github:
 
-http://bitbucket.org/cypreess/pyhole/src 
+https://github.com/cypreess/python-pyhole
 
 License: LGPL_
 
-.. _bitbucket: http://bitbucket.org/
-.. _`merculiar (hg)`: http://mercurial.selenic.com/
+
 .. _LGPL: http://www.gnu.org/copyleft/lesser.html
-
-Discussion group
-----------------
-
-Join us on Google Groups: http://groups.google.com/group/pyhole
 
 Bugs & feature requests
 -----------------------
 
-Please use bitbucket issues tracker: https://bitbucket.org/cypreess/pyhole/issues
+Please use github issues.
